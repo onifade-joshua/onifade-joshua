@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-I'm a passionate **Full Stack Engineer** with deep industry experience in both frontend and backend development, particularly in the **.NET ecosystem** and modern JavaScript frameworks like **React**, **Next.js** **Vue.js**, and **Blazor**. I specialize in **cloud-based solutions**, having worked extensively with **Azure** and **Google Cloud Platform**, and have a strong DevOps background.
+I'm a passionate **Full Stack Engineer** with deep industry experience in both frontend and backend development, particularly in the **.NET ecosystem** and modern JavaScript frameworks like **React**, **Next.js**, **Vue.js**, and **Blazor**. I specialize in **cloud-based solutions**, having worked extensively with **Azure** and **Google Cloud Platform**, and have a strong DevOps background.
 
 I currently serve as a **Software Development Lecturer** while staying actively involved in professional consulting and development projects. I thrive on sharing knowledge, solving complex problems, and building scalable, production-ready software systems.
 
