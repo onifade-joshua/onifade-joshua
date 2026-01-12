@@ -4,7 +4,7 @@
 
 📧 **Email:** [onifadejoshua15@gmail.com](mailto:onifadejoshua15@gmail.com)  
 📞 **Phone:** +234 7010600659, +234 8135576994  
-📍 **Location:** Ogun State, Nigeria  
+📍 **Location:** Lagos State, Nigeria  
 🔗 **LinkedIn:** [Joshua Onifade](https://www.linkedin.com/in/joshua-onifade-7b844322b)
 
 ---
